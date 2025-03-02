@@ -37,8 +37,8 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 ## 📬 Contact
 For any queries, feel free to reach out:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+- Email: [alishraslip2408@gmail.com](mailto:alisharaslip2408@gmail.com)
+
 
 ---
 Made with ❤️ by **[Alisha Raslip Khan]**
